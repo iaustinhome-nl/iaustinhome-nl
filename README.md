@@ -3,9 +3,9 @@
 **Senior Software Engineer · Backend & Full-Stack Development**  
 📍 Newfoundland and Labrador, Canada
 
-I build APIs, event-driven systems, and full-stack applications with an emphasis on clean design, reliable delivery, and making software easier to maintain. I like my avatars playful and my production systems predictable.
+I build APIs, event-driven systems, and full-stack applications with an emphasis on clean design, reliable delivery, and making software easier to maintain. 
 
-My professional work has included enterprise Java/Spring Boot services, Node.js/TypeScript microservices, Angular applications, data integration, and production releases. I enjoy solving tricky technical problems, collaborating across teams, and helping other developers grow.
+My professional work has included enterprise Java/Spring Boot services, Node.js/TypeScript microservices, Angular applications, data integration, and production releases. I enjoy solving tricky technical problems, exploring the nuances of the computing world, and helping other developers grow.
 
 ## 🧰 My toolkit
 
@@ -20,12 +20,9 @@ My professional work has included enterprise Java/Spring Boot services, Node.js/
 
 ## 🔧 A few things I've worked on
 
-- Built a production Kafka consumer processing **100+ messages per second**.
-- Developed TypeScript/Node.js APIs and microservices with careful handling of asynchronous workflows and failure paths.
-- Designed Java/Spring Boot services and built Angular interfaces for enterprise applications.
-- Created reusable testing patterns and reviewed code to help teams maintain quality.
-- Coordinated production deployments, validation, and rollback planning with client and operations teams.
-- Built a custom TypeScript migration utility that moved **25,000+ rows** from Excel into a relational database.
+- Production Kafka consumers for IoT data.
+- TypeScript/Node.js/Java/Spring Boot hackathon fun.
+- Using TypeScript to migrate databases.
 
 ## 🚀 What I'm building here
 
