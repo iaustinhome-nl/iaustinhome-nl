@@ -1,4 +1,4 @@
-# Hey, I'm Ian 👋
+# Hey, I'm Ian 
 
 **Senior Software Engineer · Backend & Full-Stack Development**  
 📍 Newfoundland and Labrador, Canada
@@ -26,13 +26,7 @@ My professional work has included enterprise Java/Spring Boot services, Node.js/
 
 ## 🚀 What I'm building here
 
-I'm creating three open-source demo projects to explore practical architecture and share working examples of how I approach engineering:
-
-1. **EventFlow** — An event-driven processing demo with Kafka, Node.js/TypeScript, and MongoDB; focused on reliability, retries, and observability.
-2. **CaseFlow** — A request-and-approval workflow application built with Java, Spring Boot, Angular, and PostgreSQL.
-3. **KnowFind** — A searchable knowledge-base application with TypeScript, Angular, and source-grounded AI-assisted answers.
-
-*These projects are planned and will be linked here as they become available.*
+I'm creating open-source demo projects from time to time. Come back soon for a preview of what I'm building.
 
 ## 🤝 What matters to me
 
